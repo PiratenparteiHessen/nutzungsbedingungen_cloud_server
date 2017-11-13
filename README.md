@@ -21,7 +21,7 @@ Stand: [LPT 2017.2 (11./12.11.2017)](http://wiki.piratenpartei.de/HE:Landesparte
  
 #### 2.1. OpenSource-Cloud-Server
  
-2.1.1 Jedem hessischen Mitglied mit einer gültigen @piratenpartei-hessen.de-E-Mail-Adresse, sowie jedem Mitarbeitendem von Fraktionen unter Beteiligung von Piraten mit gültiger Fraktions-E-Mail-Adresse steht auf Wunsch ein ownCloud-Konto unter der Domain owncloud.piratenpartei-hessen.de zur Verfügung. Bei Mitarbeitenden der Fraktionen muss die Fraktion dem jeweiligen Antrag vorher zugestimmt haben.
+2.1.1 Jedem hessischen Mitglied mit einer gültigen @piratenpartei-hessen.de-E-Mail-Adresse, sowie jedem Mitarbeitendem von Fraktionen unter Beteiligung von Piraten mit gültiger Fraktions-E-Mail-Adresse steht auf Wunsch ein Cloud-Server-Konto unter der entsprechenden piratenpartei-hessen.de-Domain zur Verfügung. Bei Mitarbeitenden der Fraktionen muss die Fraktion dem jeweiligen Antrag vorher zugestimmt haben.
 
 2.1.2. Der Benutzername setzt sich aus vorname.nachname zusammen. Bei mehren Vornamen kann sich einer oder eine Kombination ausgesucht werden. Bei Nameskollisionen kann vom Schema abgewichen werden.
 
