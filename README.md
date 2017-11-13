@@ -1,3 +1,10 @@
+![](pph_nutzungsbedingungen.png)
+
+Stand: [LPT 2017.2 (11./12.11.2017)](http://wiki.piratenpartei.de/HE:Landesparteitage/2017.2/Protokoll)
+
+# Nutzungsbedingungen OpenSource-Cloud-Server Piratenpartei Hessen
+----------
+
 ### 1. Allgemeines
 
 1.1. Der Landesverband Hessen betreibt seine Cloud-Dienste in Eigenregie und für die Nutzenden unentgeltlich unter Wahrung der Werte und Ideale der Piratenpartei Deutschland sowie den Beschlüssen des Landesparteitages und des Landesvorstandes.
@@ -12,9 +19,9 @@
  
 ### 2. Dienste
  
-#### 2.1. ownCloud
+#### 2.1. OpenSource-Cloud-Server
  
-2.1.1 Jedem hessischen Mitglied mit einer gültigen @piratenpartei-hessen.de-E-Mail-Adresse, sowie jedem Mitarbeitendem von Fraktionen unter Beteiligung von Piraten mit gültiger Fraktiones-E-Mail-Adresse steht auf Wunsch ein ownCloud-Konto unter der Domain owncloud.piratenpartei-hessen.de zur Verfügung. Bei Mitarbeitenden der Fraktionen muss die Fraktion dem jeweiligen Antrag vorher zugestimmt haben.
+2.1.1 Jedem hessischen Mitglied mit einer gültigen @piratenpartei-hessen.de-E-Mail-Adresse, sowie jedem Mitarbeitendem von Fraktionen unter Beteiligung von Piraten mit gültiger Fraktions-E-Mail-Adresse steht auf Wunsch ein ownCloud-Konto unter der Domain owncloud.piratenpartei-hessen.de zur Verfügung. Bei Mitarbeitenden der Fraktionen muss die Fraktion dem jeweiligen Antrag vorher zugestimmt haben.
 
 2.1.2. Der Benutzername setzt sich aus vorname.nachname zusammen. Bei mehren Vornamen kann sich einer oder eine Kombination ausgesucht werden. Bei Nameskollisionen kann vom Schema abgewichen werden.
 
